@@ -1,5 +1,9 @@
-let main = () =>{
-    console.log("Hello world!")
-}
+let main = () => {
+  console.log("Hello world!");
+};
 
-main()
+main();
+
+function greet() {
+  console.log("Welcome to The Github Project");
+}
