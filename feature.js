@@ -15,3 +15,9 @@ const feature3 = () =>{
 }
 
 feature3()
+
+const feature4 = () =>{
+    console.log("feature4")
+}
+
+feature4()
