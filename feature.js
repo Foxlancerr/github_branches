@@ -9,3 +9,9 @@ const feature2 = () =>{
 }
 
 feature2()
+
+const feature3 = () =>{
+    console.log("feature3")
+}
+
+feature3()
